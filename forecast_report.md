@@ -97,4 +97,4 @@ In Week 8, machine learning models will be added to improve accuracy and predict
 ## 8. Repository
 
 All code, data, and results are committed to the public repository.
-
+Project completed on: <today's date>)
